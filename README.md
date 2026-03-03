@@ -79,7 +79,7 @@ DAMIEN_DESSAUX_ECF2/
 ### 1. Cloner le projet depuis GitHub.
 
 ```bash
-git clone https://github.com/DamienDESSAUX-M2i/Damien_DESSAUX_ECF2.git
+git clone https://github.com/DamienDESSAUX-M2i/DESSAUX_Damien_ECF2.git
 ```
 
 ### 2. Créer un environement virtuel et installer les dépendances.
